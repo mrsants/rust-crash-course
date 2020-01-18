@@ -28,6 +28,9 @@ pub fn run() {
     let is_active: bool = true;
   
     // Get boolean from expression
+    // let is_greater: bool = 10 < 5;
+
+    // Get boolean from expression
     let is_greater: bool = 10 < 5;
   
     let a1 = 'a';
